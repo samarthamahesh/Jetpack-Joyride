@@ -1,9 +1,5 @@
 # Jetpack Joyride Terminal Game
 
-__*Samartha S M*__
-
-*2018101094*
-
 ## Contents
 
 * [Introduction](#Introduction)
